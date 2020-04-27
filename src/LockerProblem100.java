@@ -49,6 +49,8 @@
  *
  *  L1 L4 L9 L16 L25 L36 L49 L64 L81 L100
  *
+ * * * * * * * * * * * * *    OBSERVATION   * * * * * * * * * * * *
+ *
  *  The locker numbers are noticed to be squares of {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}.
  *
  *  Thank You!
